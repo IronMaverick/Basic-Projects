@@ -1,0 +1,12 @@
+apple
+banana
+cherry
+dog
+elephant
+flamingo
+giraffe
+hamburger
+icecream
+jaguar
+kangaroo
+lemon
